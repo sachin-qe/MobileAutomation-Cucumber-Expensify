@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-15T18:11:15 IST" name="Default Suite" finished-at="2021-11-15T18:11:18 IST" duration-ms="2615">
+    <groups>
+    </groups>
+    <test started-at="2021-11-15T18:11:15 IST" name="RestAssuredProject" finished-at="2021-11-15T18:11:18 IST" duration-ms="2615">
+      <class name="APITests">
+        <test-method signature="addPetToStore()[pri:0, instance:APITests@6483f5ae]" started-at="2021-11-15T18:11:15 IST" name="addPetToStore" finished-at="2021-11-15T18:11:17 IST" duration-ms="2005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPetToStore -->
+        <test-method signature="checkPetFindByStatus()[pri:0, instance:APITests@6483f5ae]" started-at="2021-11-15T18:11:17 IST" name="checkPetFindByStatus" finished-at="2021-11-15T18:11:17 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPetFindByStatus -->
+        <test-method signature="createUser()[pri:0, instance:APITests@6483f5ae]" started-at="2021-11-15T18:11:17 IST" name="createUser" finished-at="2021-11-15T18:11:18 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="storeInventory()[pri:0, instance:APITests@6483f5ae]" started-at="2021-11-15T18:11:18 IST" name="storeInventory" finished-at="2021-11-15T18:11:18 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeInventory -->
+      </class> <!-- APITests -->
+    </test> <!-- RestAssuredProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
